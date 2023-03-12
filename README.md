@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 halo baby
 cap nhat du lieu xuong bang pull
 Push Branch to GitHub
+day la readme nhap
